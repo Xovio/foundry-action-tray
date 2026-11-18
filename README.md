@@ -15,6 +15,10 @@ A slide-out action tray for **Foundry VTT** and the **dnd5e** system. Select a t
 - **Abilities, saves and skills** with passive scores, rollable from the tray
 - **English and German** – choose under *Language* in the module settings
 
+## Screenshots
+<img width="423" height="1023" alt="image" src="https://github.com/user-attachments/assets/61a33cc6-7d19-418d-bc28-2ff72cb8fde9" />
+
+
 ## Controls
 
 | Input | Action |
