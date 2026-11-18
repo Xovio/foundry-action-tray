@@ -1,0 +1,41 @@
+{
+  "id": "action-tray",
+  "title": "Action Tray",
+  "description": "Slide-out action tray for dnd5e 4.x: every usable action, spell and item of the selected token, grouped by action economy – plus HP/AC/conditions, action/bonus/reaction tracking, legendary counters, follow-the-turn and a spell point mana orb. Inspired by Action Pack (Tero Parvinen, MIT).",
+  "authors": [
+    {
+      "name": "Xovio"
+    }
+  ],
+  "version": "0.2.0",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.0.0",
+          "verified": "4.4.4",
+          "maximum": "4.99"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/tray.css"
+  ],
+  "url": "https://github.com/Xovio/foundry-action-tray",
+  "manifest": "https://github.com/Xovio/foundry-action-tray/releases/latest/download/module.json",
+  "download": "https://github.com/Xovio/foundry-action-tray/releases/download/v0.2.0/module.zip",
+  "bugs": "https://github.com/Xovio/foundry-action-tray/issues",
+  "readme": "https://github.com/Xovio/foundry-action-tray/blob/main/README.md"
+}
