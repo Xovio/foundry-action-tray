@@ -18,14 +18,17 @@ A slide-out action tray for **Foundry VTT** and the **dnd5e** system. Select a t
 ## Screenshots
 
 The Action Tray is a toggleable panel to the left of the toolbar.
+
 <img width="423" height="1023" alt="image" src="https://github.com/user-attachments/assets/61a33cc6-7d19-418d-bc28-2ff72cb8fde9" />
 
 For spellcasters, it supports versions for Spell Slots and the optional Spell Point rule.
 
 Spell Slots:
+
 <img width="298" height="1371" alt="image" src="https://github.com/user-attachments/assets/af83d335-a049-4766-bfab-f585b1a0b2f5" />
 
 Spell Points:
+
 <img width="301" height="1369" alt="image" src="https://github.com/user-attachments/assets/92db30ba-ae06-4a7f-838d-68e5e6a1c65b" />
 
 
